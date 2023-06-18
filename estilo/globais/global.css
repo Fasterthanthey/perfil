@@ -1,0 +1,31 @@
+* {
+    margin : 0px; 
+    padding: 0px;
+}
+
+body {
+    font-family: poppins;
+
+    background-image: url(/imagens/background-perfil.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,p,ul,a,h2,h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+}
